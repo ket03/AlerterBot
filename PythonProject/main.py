@@ -51,7 +51,7 @@ def counter_gifts():
         except Exception as e:
             logger.error(e)
         finally:
-            time.sleep(10)
+            time.sleep(20)
     current_count_gift = counter
     alert()
     counter_gifts()
@@ -97,7 +97,7 @@ def main():
     counter_gifts_thread.daemon = True
     counter_gifts_thread.start()
 
-    bot.polling()
+    bot.infinity_polling()
 
 
 if __name__ == '__main__':
