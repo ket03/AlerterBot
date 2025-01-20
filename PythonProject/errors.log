@@ -1,0 +1,139 @@
+2025-01-17 23:51:36,831 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-17 23:51:37,314 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:51:37,316 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-17 23:51:37,382 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getMe HTTP/1.1" 200 257
+2025-01-17 23:51:37,406 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-17 23:51:37,692 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:51:37,843 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:51:48,009 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:51:57,759 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:51:58,181 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:52:01,159 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 352
+2025-01-17 23:52:01,164 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-17 23:52:01,463 DEBUG urllib3.connectionpool https://api.telegram.org:443 "POST /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/sendMessage?chat_id=1020435785&text=%F0%9F%91%8B+Hello%2C+I+am+BotAlerter%21+%F0%9F%A4%96%0A%F0%9F%94%A7+Working+with+official+API+telegram+%F0%9F%93%B1%0A%F0%9F%8E%AF+My+mission+is+alert+you+when+new+gift+will+coming+%F0%9F%8E%81&reply_markup=%7B%22inline_keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22Subscribe%22%2C+%22callback_data%22%3A+%22subscribe%22%7D%5D%5D%7D HTTP/1.1" 200 521
+2025-01-17 23:52:03,195 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669760&timeout=20 HTTP/1.1" 200 763
+2025-01-17 23:52:03,199 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-17 23:52:03,633 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/sendInvoice?chat_id=1020435785&title=Subscribe+to+Alerter&description=%F0%9F%94%94+After+subscribe%2C+bot+will+alert+you+when+gift+incoming+%F0%9F%8E%81+%E2%9C%A8&payload=sub_purchase_payload&currency=XTR&prices=%5B%7B%22label%22%3A+%22XTR%22%2C+%22amount%22%3A+100%7D%5D&reply_markup=%7B%22inline_keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22Pay+1+XTR%22%2C+%22pay%22%3A+true%7D%5D%5D%7D&provider_token= HTTP/1.1" 200 510
+2025-01-17 23:52:08,425 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:52:18,583 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:52:23,382 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:52:28,825 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:52:38,997 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:52:43,462 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:52:49,169 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:52:59,331 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:53:03,629 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:53:09,570 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:53:19,830 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:53:23,701 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:53:29,997 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:53:40,151 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:53:43,876 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:53:50,316 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:54:00,495 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:54:04,052 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:54:10,653 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:54:20,805 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:54:24,127 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:54:31,135 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:54:41,285 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:54:44,203 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:54:51,463 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:55:01,607 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:55:04,275 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:55:11,777 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:55:21,940 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:55:24,344 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:55:32,158 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:55:42,310 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:55:44,414 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:55:52,474 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:56:02,650 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:56:04,483 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:56:12,917 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:56:23,109 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:56:24,659 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:56:33,298 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:56:43,517 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:56:44,729 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:56:53,673 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:57:03,814 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:57:04,807 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:57:13,969 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:57:24,199 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:57:24,900 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:57:34,378 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:57:44,531 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:57:44,992 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:57:54,752 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:58:04,920 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:58:05,057 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:58:15,062 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:58:25,128 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:58:25,275 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:58:35,470 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:58:45,202 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:58:45,626 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:58:55,777 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:59:05,279 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:59:05,941 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:59:16,200 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:59:25,346 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:59:26,343 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:59:36,495 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:59:45,418 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-17 23:59:46,665 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-17 23:59:56,828 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:00:05,486 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:00:07,044 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:00:17,294 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:00:25,570 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:00:27,449 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:00:37,653 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:00:45,643 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:00:47,933 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:00:58,090 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:01:05,709 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:01:08,256 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:01:18,445 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:01:25,799 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:01:28,607 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:01:38,610 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-18 00:01:39,313 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:01:45,873 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:01:45,875 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-18 00:01:49,474 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:01:59,641 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:02:06,197 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:02:09,834 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:02:20,009 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:02:26,271 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 200 23
+2025-01-18 00:02:30,159 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getAvailableGifts HTTP/1.1" 200 9868
+2025-01-18 00:02:34,060 DEBUG urllib3.connectionpool https://api.telegram.org:443 "GET /bot7818901321:AAF52dwq4nMIRpCs6gmaEsVg8wiAyVW-PQU/getUpdates?offset=391669761&timeout=20 HTTP/1.1" 409 143
+2025-01-18 00:02:34,064 ERROR TeleBot Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-18 00:02:34,066 ERROR TeleBot Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+                               allowed_updates=allowed_updates,
+                               timeout=timeout, long_polling_timeout=long_polling_timeout)
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+        self.token, offset=offset, limit=limit, timeout=timeout, allowed_updates=allowed_updates,
+        long_polling_timeout=long_polling_timeout)
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\apihelper.py", line 332, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Admin\PycharmProjects\KietAIBot\.venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
