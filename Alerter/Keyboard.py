@@ -5,5 +5,5 @@ btn_sub = InlineKeyboardButton('Subscribe', callback_data='subscribe')
 kb_sub.add(btn_sub)
 
 kb_pay = InlineKeyboardMarkup()
-btn_pay = InlineKeyboardButton(text='Pay 1 XTR', pay=True)
+btn_pay = InlineKeyboardButton(text='Pay 100 XTR', pay=True)
 kb_pay.add(btn_pay)

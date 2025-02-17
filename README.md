@@ -5,5 +5,7 @@ A bot made with Python using the telebot framework
 
 ## Its task is to notify subscribed users about new gifts received in the Telegram messenger
 ![image](https://github.com/user-attachments/assets/9b5930dc-6cd7-420a-ac1c-9da4bc5c7665)
+
+### Example
 ![image](https://github.com/user-attachments/assets/8402bfa8-603d-49bb-a42c-488e331f507f)
 
