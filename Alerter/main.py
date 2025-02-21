@@ -28,16 +28,14 @@ def write_id_to_file(user_id):
     all_id = f.read()
     f.close()
     if all_id.find(user_id) == -1:
-        f = open('id.txt', 'a')
+        with open('id.txt', 'a') as f:
         f.write(user_id + '\n')
-        f.close()
 
 
 def get_all_id_from_file():
-    with open('id.txt', 'r') as file:
-        for line in file:
+    with open('id.txt', 'r') as f:
+        for line in f:
             users.add(line.strip())
-    file.close()
 
 
 def alert():
