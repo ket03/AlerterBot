@@ -15,11 +15,10 @@ current_count_gift = len(bot.get_available_gifts().gifts)
 
 
 def check_subscribe(user_id):
-    f = open('id.txt', 'r')
-    all_id = f.read()
-    f.close()
-    if all_id.find(user_id) != -1:
-        return True
+    with open('id.txt', 'r') as f:
+        all_id = f.read()
+        if user_id in all_id:
+            return True
     return False
 
 
